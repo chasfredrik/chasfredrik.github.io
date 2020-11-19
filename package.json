@@ -2,7 +2,7 @@
   "name": "react-sl-info",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chasfredrik.github.io/react-sl-info",
+  "homepage": "https://chasfredrik.github.io/chasfredrik.github.io",
   "proxy": "https://api.sl.se",
   "dependencies": {
     "@happycoderse/js-sl-api": "^1.0.3",
